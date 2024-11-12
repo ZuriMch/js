@@ -17,5 +17,5 @@ function findLargestNumber(numbers) {
   // Ejemplo de uso:
   const numbersArray = [3, 5, 7, 2, 8, 6, 1];
   const largest = findLargestNumber(numbersArray);
-  console.log(largest); // 8
+  console.log(largest); 
   
